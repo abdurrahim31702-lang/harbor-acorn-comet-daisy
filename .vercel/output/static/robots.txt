@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# WhatsApp and app chrome
+Disallow: /__grok/

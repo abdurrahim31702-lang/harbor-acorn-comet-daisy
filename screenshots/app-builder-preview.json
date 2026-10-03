@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "AIRO Studio — Digital experiences, beyond the ordinary.",
+      "hasCanvas": false,
+      "bodyTextLen": 4293,
+      "bodyTextHash": "85bf5768fad09e504e98a4f8e4d5850d5e978396851f43e31e8d8ce0dac4da48",
+      "bodyTextPrefix": "AIRO Skip to content AIROStudio WORK SERVICES PROCESS ABOUT CONT",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "AIRO Studio — Digital experiences, beyond the ordinary.",
+      "hasCanvas": false,
+      "bodyTextLen": 4298,
+      "bodyTextHash": "535424e5c218bd8bba90d8e8dee250cea0836e12a3032640bae8edb7a1f5ae6f",
+      "bodyTextPrefix": "AIRO Skip to content AIROStudio MENU Work Services Process About",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
